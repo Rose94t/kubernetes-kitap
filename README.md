@@ -1,5 +1,7 @@
 ![k8s](https://raw.githubusercontent.com/mstrYoda/kubernetes-kitap/master/kubernetes.png)
 
+paylaşımlarınız için teşekkür ederiz.
+
 # Hoş geldiniz
 
 > Open Source severler olarak bir araya gelip, Kubernetes için Türkçe kaynak olması açısından bu kitabı hazırladık ve siz değerli okuyuculara sunduk.
